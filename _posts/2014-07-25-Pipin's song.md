@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pipin's Song
+title: Pipin
 ---
 
 # Pipin's Song #
