@@ -1,10 +1,6 @@
 ---
-layout: default
-<<<<<<< HEAD:_posts/2014-07-25-Pipin's song.md
+layout: post
 title: Pinpin's Song
-=======
-title: Pipin's Song
->>>>>>> origin/gh-pages:_posts/2014-07-25-pipin-song.md
 ---
 
 # Pipin's Song #
